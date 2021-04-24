@@ -8,6 +8,7 @@ import Banner from "./Banner";
 function App() {
   return (
     <div className="app">
+<head><script data-ad-client="ca-pub-7933623780192463" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
       <NavBar />
       <Banner />
       <Row
